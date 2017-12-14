@@ -23,4 +23,4 @@
 
  
 ![hjkl](https://user-images.githubusercontent.com/32285839/32406456-4744e948-c1ab-11e7-8f42-dd19c753130d.png)
-![1s](https://github.com/Thaksina/Project/src/image/1.jpg) 
+![1ssd](https://github.com/Thaksina/Project/src/image/1.jpg) 
