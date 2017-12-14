@@ -1,0 +1,44 @@
++++++++++++You Can add more list of Cosmetics below here++++++++++
++ Write down brand/name/information/location/price/code +
+Chanel/eyeshadow/Zone A/A soft-textured powder shadow that offers even, longwearing colour. In 16 richly-pigmented shades with matte, satin or metallic finishes. Includes a sponge applicator for shading and a brush applicator for blending/990/1
+Chanel/lipstick/Zone A/More velvety soft and comfortable than any matte lipstick before, it adorns lips with deep colours and an intensely luminous matte finish. As moisturizing as a satiny lipstick, it feels as weightless as a second skin./1890/2
+Chanel/brush-on/Zone A/The ultimate staple for creating a dewy, fresh-faced look, this versatile palette packs multiple uses and effects in a sleek, touch-up-friendly compact./1290/3
+Chanel/concealer/Zone A/The long-lasting, corrective concealer in three colour-correcting shades to address a range of skin concerns and imperfections./1090/4
+Chanel/primer/Zone A/A smooth, glide-on formula for a fresh, radiant complexion. Defends skin against environmental aggressors and provides broad-spectrum sun protection. In 14 versatile, natural-looking shades./1450/5
+Chanel/foundation/Zone A/A lightweight, fluid foundation that smooths and hydrates for an even and natural-looking complexion. The look of wrinkles, fine lines and dark spots is visibly diminished. Provides medium-to-full coverage and a natural luminous finish./2050/6
+Chanel/eye liner/Zone A/Perfect for a smoky effect, this soft kohl eye pencil quickly achieves a dramatic look./1090/7
+Dior/eyeshadow/Zone B/An ultra-fine powder eyeshadow that comes in a range of vibrant colours and matte, satin or shimmer finishes./890/8
+Dior/lipstick/Zone B/Enriched with ultra-thin mother-of-pearl particles, the different shades reveal their many facets to match your every mood./790/9
+Dior/brush-on/Zone B/One palette. Endless options. This travel makeup palette and mascara set features beauty essentials to enhance face, eyes and lips on the go./2090/10
+Dior/concealer/Zone B/Specially formulated for the delicate eye area, this smoothing concealer comforts, brightens and helps reduce the appearance of dark circles so eyes look beautifully refreshed./1000/11
+Dior/primer/Zone B/A smooth, glide-on formula for a fresh ,radiant complexion./890/12
+Dior/foundation/Zone B/fluid foundation that smooths and hydrates for an even and natural-looking complexion./990/13
+Dior/eye liner/Zone B/this soft kohl eye pencil quickly achieves a dramatic look./1090/14
+Maybelline/eyeshadow/Zone C/This modern palette gives eyes structure and depth with long-wearing, soft-texture shadows in brown, green and beige tones with matte to satin finishes. Includes two double-sided sponge and brush applicators./1290/15
+Maybelline/lipstick/Zone C/The colour intensity of a lipstick. The lacquered shine of a lipgloss. With one seductive click, ROUGE ALLURE GLOSS delivers high-precision, long-wearing coverage./1290/16
+Maybelline/brush-on/Zone C/The ultimate staple for creating a dewy, fresh-faced look, this versatile palette packs multiple uses and effects in a sleek, touch-up-friendly compact./1200/17
+Maybelline/concealer/Zone C/The long-lasting, corrective concealer in three colour-correcting shades to address a range of skin concerns and imperfections./1990/18
+Maybelline/primer/Zone C/A smooth, glide-on formula for a fresh ,radiant complexion./2090/19
+Maybelline/foundation/Zone C/A lightweight, fluid foundation that smooths and hydrates for an even and natural-looking complexion. The look of wrinkles, fine lines and dark spots is visibly diminished. Provides medium-to-full coverage and a natural luminous finish./1900/20
+Maybelline/eye liner/Zone C/Perfect for a smoky effect, this soft kohl eye pencil quickly achieves a dramatic look./1090/21
+NYX/eyeshadow/Zone D/A soft-textured powder shadow that offers even, longwearing colour. In 16 richly-pigmented shades with matte, satin or metallic finishes. Includes a sponge applicator for shading and a brush applicator for blending./1590/22
+NYX/lipstick/Zone D/More velvety soft and comfortable than any matte lipstick before, it adorns lips with deep colours and an intensely luminous matte finish. As moisturizing as a satiny lipstick, it feels as weightless as a second skin./890/23
+NYX/brush-on/Zone D/The ultimate staple for creating a dewy, fresh-faced look, this versatile palette packs multiple uses and effects in a sleek, touch-up-friendly compact./990/24
+NYX/concealer/Zone D/The long-lasting, corrective concealer in three colour-correcting shades to address a range of skin concerns and imperfections./2090/25
+NYX/primer/Zone D/A smooth, glide-on formula for a fresh ,radiant complexion./1890/26
+NYX/foundation/Zone D/fluid foundation that smooths and hydrates for an even and natural-looking complexion./990/27
+NYX/eye liner/Zone D/Perfect for a natural effect, this soft eye pencil quickly achieves a natural look./1090/28
+Bobbi-brown/eyeshadow/Zone E/A soft-textured powder shadow that offers even, longwearing colour. In 16 richly-pigmented shades with matte, satin or metallic finishes. Includes a sponge applicator for shading and a brush applicator for blending./1790/29
+Bobbi-brown/lipstick/ZoneE/The colour intensity of a lipstick. The lacquered shine of a lipgloss. With one seductive click, ROUGE ALLURE GLOSS delivers high-precision, long-wearing coverage./1290/30
+Bobbi-brown/brush-on/Zone E/One palette. Endless options. This travel makeup palette and mascara set features beauty essentials to enhance face, eyes and lips on the go./790/31
+Bobbi-brown/concealer/Zone E/The long-lasting, corrective concealer in three colour-correcting shades to address a range of skin concerns and imperfections./3500/32
+Bobbi-brown/primer/Zone E/A smooth, glide-on formula for a fresh ,radiant complexion./790/33
+Bobbi-brown/foundation/Zone E/fluid foundation that smooths and hydrates for an even and natural-looking complexion./1090/34
+Bobbi-brown/eye liner/Zone E/Perfect for a smoky effect, this soft kohl eye pencil quickly achieves a dramatic look./2090/35
+M.A.C/eyeshadow/Zone F/A soft-textured powder shadow that offers even, longwearing colour. In 16 richly-pigmented shades with matte, satin or metallic finishes. Includes a sponge applicator for shading and a brush applicator for blending./790/36
+M.A.C/lipstick/Zone F/The colour intensity of a lipstick. The lacquered shine of a lipgloss. With one seductive click, ROUGE ALLURE GLOSS delivers high-precision, long-wearing coverage./1290/37
+M.A.C/brush-on/Zone F/One palette. Endless options. This travel makeup palette and mascara set features beauty essentials to enhance face, eyes and lips on the go./1090/38
+M.A.C/concealer/Zone F/The long-lasting, corrective concealer in three colour-correcting shades to address a range of skin concerns and imperfections./890/39
+M.A.C/primer/Zone F/A smooth, glide-on formula for a fresh ,radiant complexion./890/40
+M.A.C/foundation/Zone F/A lightweight, fluid foundation that smooths and hydrates for an even and natural-looking complexion. The look of wrinkles, fine lines and dark spots is visibly diminished. Provides medium-to-full coverage and a natural luminous finish./2750/41
+M.A.C/eye liner/Zone F/Perfect for a smoky effect, this soft kohl eye pencil quickly achieves a dramatic look./1890/42
