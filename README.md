@@ -1,6 +1,6 @@
 ## Application: Cosmetics information & where to find them. 
 ![1p](https://user-images.githubusercontent.com/32285839/32406404-6f10c2a4-c1aa-11e7-9676-7e0b767a89ad.jpg)
-![dada](src/image/ZoneA.jpg)
+![dada](src/image/zoneA.jpg)
 
 ## Team member
 1. Pichaaun Popukdee	6010545862 
