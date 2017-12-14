@@ -6,7 +6,7 @@
 2. Thaksina Jansaengsri 	6010545765
  
 # Why we do this project? 
-     We believe that many people have had a problem when you go shopping in superstore or wherever .There are no employees or staff interested in you and can’t service you completely. The simplest example is a cosmetics shop at Siamone underground. Therefore, we just want something that makes us service ourselves easier and this is reason why we do this application .we can find the product with the price and information easily and we don’t have to annoyed with the service that not like service.
+We believe that many people have had a problem when you go shopping in superstore or wherever .There are no employees or staff interested in you and can’t service you completely. The simplest example is a cosmetics shop at Siamone underground. Therefore, we just want something that makes us service ourselves easier and this is reason why we do this application .we can find the product with the price and information easily and we don’t have to annoyed with the service that not like service.
 
  
 # Our concepts
@@ -23,16 +23,16 @@
  
  # How it's work ?
  
-## This is our first page of project.
+This is our first page of project.
  Press "click" then it go to the main page.
 ![1ssd](src/image/1.png) 
 
-## First you have to click the all product button and it will show you the code of all product.
+First you have to click the all product button and it will show you the code of all product.
 - Brand button tell you all the brand in store.
 - Types button tell you all the types in store.
 ![1ssd](src/image/2.png)
 
-## Remember the code and type it in the blank then hit the button on the right of the blank
+Remember the code and type it in the blank then hit the button on the right of the blank
 ![1ssd](src/image/3.png)
 
 
