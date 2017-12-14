@@ -21,6 +21,13 @@
 -	Show the information of the product
 -	Show the zone that the product is set.
 
- 
-![hjkl](https://user-images.githubusercontent.com/32285839/32406456-4744e948-c1ab-11e7-8f42-dd19c753130d.png)
-![1ssd](https://github.com/Thaksina/Project/src/image/1.jpg) 
+ ## How it's work ?
+ This is our first page of project.
+ Press "click" then it go to the main page.
+![1ssd](src/image/1.png) 
+
+First you have to click the all product button and it will show you the code of all product.
+- Brand button tell you all the brand in store.
+- Types button tell you all the brand in store.
+![1ssd](src/image/2.png)
+![1ssd](src/image/3.png)
