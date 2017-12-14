@@ -35,6 +35,8 @@ First you have to click the all product button and it will show you the code of 
 
 Remember the code and type it in the blank then hit the button on the right of the blank
 ![1ssd](src/image/4.png)
+
+## What each button do ?
 ![1ssd](src/image/5.jpg)
 
 - First button tell the price.
