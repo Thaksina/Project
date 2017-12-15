@@ -43,4 +43,6 @@ Remember the code and type it in the blank then hit the button on the right of t
 - Second button tell the information.
 - third button tell the location.
 
+# Link download
+click [here](https://github.com/Thaksina/Project/releases) to download
 
